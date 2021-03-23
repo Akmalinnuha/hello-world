@@ -1,4 +1,4 @@
-package Java;
+
 import java.util.Scanner;
 public class tugas3 {
     public static void main(String[] args) {
